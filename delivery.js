@@ -1,0 +1,1 @@
+console.log('Bu Toshmatning yozgan kodi')
